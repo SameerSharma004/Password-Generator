@@ -1,3 +1,5 @@
+// Read README.md first.
+
 import { useCallback, useState, useRef } from 'react'
 import './App.css'
 
