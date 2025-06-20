@@ -19,7 +19,6 @@ A sleek and customizable password generator built with React. Easily generate se
 - **Framework:** React (Vite)
 - **Language:** JavaScript
 - **Styling:** CSS
-- **Icons:** (FontAwesome / Lucide / etc.)
 
 ## 🚀 Getting Started
 
@@ -41,6 +40,7 @@ npm run dev
 ## 📂 Project Structure
 
 src/
+
 ├── App.jsx  <- code is here
 
 ├── App.css
