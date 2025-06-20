@@ -38,15 +38,18 @@ npm install
 npm run dev 
 ```
 
-📂 Project Structure
+## 📂 Project Structure
 
 src/
 ├── App.jsx  <- code is here
+
 ├── App.css
+
 ├── index.css
+
 ├── main.jsx
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Sameer Sharma
 
