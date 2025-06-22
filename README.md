@@ -2,11 +2,6 @@
 
 A sleek and customizable **Password Generator** built using **React** and **JavaScript**. Instantly generate strong, secure passwords with user-defined criteria such as length, character types, and more.
 
-## 🚀 Live Demo
-
-[Click here to try it out!](#)  
-*(Add your deployment link here, e.g., Vercel/Netlify)*
-
 ---
 
 ## ✨ Features
