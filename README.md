@@ -36,7 +36,7 @@ A sleek and customizable **Password Generator** built using **React** and **Java
 git clone https://github.com/yourusername/password-generator.git
 cd password-generator
 npm install
-npm start
+npm run dev
 ```
 
 ---
