@@ -19,7 +19,7 @@ A sleek and customizable **Password Generator** built using **React** and **Java
 
 - **React** – Functional components & hooks  
 - **JavaScript (ES6+)**
-- **CSS3
+- **CSS3**
 
 ---
 
